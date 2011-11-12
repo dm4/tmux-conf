@@ -1,6 +1,7 @@
 Usage
 -----
 
+    $ cd
     $ git clone http://github.com/dm4/tmux-conf .tmux
-    $ ln -s .tmux/tmux.conf .tmux.conf
-    $ cp .tmux/tmx ~/bin/tmx
+    $ ln -s ~/.tmux/tmux.conf ~/.tmux.conf
+    $ ln -s ~/.tmux/tmx ~/bin/tmx
