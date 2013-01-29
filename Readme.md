@@ -13,7 +13,7 @@ About `tmx`
 
 - `tmx`
 
-    Automatic attach detached session, or new a session named `main`.
+    Automatic attach a detached session, or new a session named `main`.
 
 - `tmx session_name`
 
